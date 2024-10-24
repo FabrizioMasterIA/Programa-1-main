@@ -1,0 +1,13 @@
+# Proyecto Automovil by: Los Phytoners
+
+Este es un proyecto sobre la presentacion de una tabla relacionada a la depreciacion de valores de un automovil en base a datos introducidos por el usuario
+
+## Instalacion
+
+1. Clona el repositorio
+2. Instala las dependencias: `pip install -r requirements.txt`
+3. Ejecuta el proyecto: `python main.py`
+
+## Pruebas
+
+Para ejecutar las pruebas usa: 
